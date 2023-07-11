@@ -24,7 +24,7 @@ Please see the [TestWebAppCoreAzureKeyVault](https://github.com/ITfoxtec/ITfoxte
 
 The ITfoxtec Identity Saml2 package is tested for compliance with AD FS, Azure AD, Azure AD B2C, the Danish NemLog-in3 (MitID), the Danish Context Handler and many other IdPs and RPs.
 
-Please see the [test samples](https://github.com/ITfoxtec/ITfoxtec.Identity.Saml2/tree/master/test").
+Please see the [test samples](https://github.com/ITfoxtec/ITfoxtec.Identity.Saml2/tree/master/test).
 The [TestWebAppCoreNemLogin3Sp](https://github.com/ITfoxtec/ITfoxtec.Identity.Saml2/tree/master/test/TestWebAppCoreNemLogin3Sp) sample show how to implement an NemLog-in3 Service Provider (SP).
 
 > You can use the [SAML 2.0 tool](https://www.foxids.com/tools/Saml) to decode tokens and create self-signed certificates with the [certificate tool](https://www.foxids.com/tools/Certificate).
